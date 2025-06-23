@@ -1,5 +1,5 @@
 # ParaMind AI Assistant for Microsoft Word
-**Created by Vanya**
+
 
 A powerful Microsoft Word add-in that integrates AI capabilities directly into your document workflow. ParaMind allows you to interact with AI models through OpenAI-compatible APIs to help with document creation, editing, analysis, and rich text formatting.
 
